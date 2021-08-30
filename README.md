@@ -5,8 +5,8 @@ Microarreglos - Curso teórico-práctico de Bioinformática 2017
 
 ## slides
 
-- 🍭 slides: https://bit.ly/reproscience-intro 
-- 🍭 slides: https://bit.ly/microarrays-intro 
+- 🍭 slides: [reproducible science](https://bit.ly/reproscience-intro)
+- 🍭 slides: [microarray analysis](https://bit.ly/microarrays-intro)
 
 ## tutorials
 
